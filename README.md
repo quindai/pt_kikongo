@@ -1,7 +1,7 @@
 pt_kikongo
 ==========
 
-Dicionário Português para Kikongo
+Dicionário Português para Kikongo<br/>
 Organizado de forma alfabética.
 
 Referências:
