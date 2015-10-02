@@ -1,4 +1,4 @@
-pt_kikongo
+Português - Kikongo
 ==========
 
 Dicionário Português para Kikongo.<br/>
